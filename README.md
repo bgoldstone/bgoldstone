@@ -3,7 +3,10 @@
 ## 📫 How to reach me: check bio URL
 ## 😄 Pronouns: He/Him/His
 ## Languages: I know Java and Pyton basics, plus a bit of html
-![java_logo](https://user-images.githubusercontent.com/23127820/113224446-7ce41880-9259-11eb-828c-70cf4b692455.jpg)![python-logo@2x](https://user-images.githubusercontent.com/23127820/113224512-9edd9b00-9259-11eb-86c3-5f1c1e57f317.png)![Logo HTML5](https://user-images.githubusercontent.com/23127820/113224474-89687100-9259-11eb-9dcf-c0fcd9639c92.JPG)
+![java](https://user-images.githubusercontent.com/23127820/113224594-cb91b280-9259-11eb-84d9-3e92817e7be6.jpg)
+![python3](https://user-images.githubusercontent.com/23127820/113224670-ebc17180-9259-11eb-8708-48621b2b3935.jpg)
+![html5](https://user-images.githubusercontent.com/23127820/113224708-f976f700-9259-11eb-913f-294003c2e78f.png)
+
 
 
 
