@@ -4,7 +4,7 @@
 ## 😄 Pronouns: He/Him/His
 ## Languages: I know Java and Pyton basics, plus a bit of html
 ![java](https://user-images.githubusercontent.com/23127820/113224594-cb91b280-9259-11eb-84d9-3e92817e7be6.jpg)
-![python3](https://user-images.githubusercontent.com/23127820/113224670-ebc17180-9259-11eb-8708-48621b2b3935.jpg)
+![python3](https://user-images.githubusercontent.com/23127820/113224780-275c3b80-925a-11eb-9072-680dbf2cd9ae.png)
 ![html5](https://user-images.githubusercontent.com/23127820/113224708-f976f700-9259-11eb-913f-294003c2e78f.png)
 
 
