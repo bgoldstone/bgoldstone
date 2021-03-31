@@ -1,4 +1,4 @@
-### Hi there 👋 My Name is Ben Goldstone
+# Hi there 👋 My Name is Ben Goldstone
 ## 🌱 I’m currently learning Computer Science at Muhlenberg College
 ## 📫 How to reach me: linktr.ee/bgoldstone
 ## 😄 Pronouns: He/Him/His
