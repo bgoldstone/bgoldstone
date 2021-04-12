@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size:50px;">Hello World!</h1>
-### <div align="center">I'm Ben, a freelance developer</div>  
+<h2 align="center">I'm Ben, a computer science student.</h2>
   
 
 - 🔭 I’m currently working on [CSI_II](https://github.com/bgoldstone/CSI_II)  
