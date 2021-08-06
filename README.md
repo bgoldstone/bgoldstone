@@ -2,7 +2,7 @@
 <h2 align="center">I'm Ben, a computer science student.</h2>
   
 
-- 🔭 I’m currently working on [CSI_II](https://github.com/bgoldstone/CSI_II)  
+- 🔭 I’m currently working on [Virtual-assistant](https://github.com/bgoldstone/Virtual-assistant)  
   
 
 - 🌱 I’m currently learning Java and Network Security Monitoring
