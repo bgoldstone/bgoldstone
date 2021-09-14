@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [Virtual-assistant](https://github.com/bgoldstone/Virtual-assistant)  
   
 
-- 🌱 I’m currently learning Java and Network Security Monitoring
+- 🌱 I’m currently learning Software Engineering and Data Structures & Algorithms
   
 <!--
 - ⚡ Fun fact: I use tabs over spaces  
