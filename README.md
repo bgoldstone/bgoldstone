@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [Virtual-assistant](https://github.com/bgoldstone/Virtual-assistant)  
   
 
-- 🌱 I’m currently learning Software Engineering and Data Structures & Algorithms
+- 🌱 I’m currently learning Artifical Intelligence and Computer Organizations(Assembly and Bare bones computing)
   
 <!--
 - ⚡ Fun fact: I use tabs over spaces  
@@ -36,7 +36,10 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
