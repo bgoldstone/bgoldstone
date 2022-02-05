@@ -26,8 +26,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
+<img style="margin: 10px" src="https://github.com/bgoldstone/bgoldstone/raw/main/static/materialize.svg" alt="Materialize CSS" height="50" />  
 </div>
-
 </td><td valign="top" width="33%">
 
 
