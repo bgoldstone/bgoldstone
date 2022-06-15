@@ -6,6 +6,9 @@
   
 
 - 🌱 I’m currently learning Artifical Intelligence and Computer Organizations(Assembly and Bare bones computing)
+
+
+- 📂 Recent Projects [go-inventory-rest](https://github.com/bgoldstone/go-inventory-rest), [Sudoku-Solver](https://github.com/bgoldstone/Sudoku-Solver)
   
 <!--
 - ⚡ Fun fact: I use tabs over spaces  
