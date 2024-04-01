@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgoldstone&label=Profile%20views&color=0e75b6&style=flat" alt="bgoldstone" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bgoldstone" alt="bgoldstone" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **free_rfr** [https://github.com/bgoldstone/free_rfr](https://github.com/bgoldstone/free_rfr)
 
 - 👨‍💻 All of my projects are available at [https://github.com/bgoldstone](https://github.com/bgoldstone)
 
-- 🌐My link tree is available here [https://linktr.ee/bgoldstone](https://linktr.ee/bgoldstone)
+- 🌐My linktree is available here [https://linktr.ee/bgoldstone](https://linktr.ee/bgoldstone)
 
-- 💬 Ask me about **Google App Script**
+- 💬 Ask me about **Sound and Lighting**
 
 - 📫 How to reach me **bgoldstone1@gmail.com**
 
@@ -33,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bgoldstone&show_icons=true&locale=en" alt="bgoldstone" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgoldstone&" alt="bgoldstone" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bgoldstone" alt="bgoldstone" /></a> </p>
