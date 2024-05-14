@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben Goldstone</h1>
-<h3 align="center">A Computer Science Student on Track for a Bachelor's Degree</h3>
+<h3 align="center">A Software Engineer and Lighting/Sound Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgoldstone&label=Profile%20views&color=0e75b6&style=flat" alt="bgoldstone" /> </p>
 
